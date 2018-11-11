@@ -1,0 +1,13 @@
+1. Install Java SDK 8
+ - add JAVA_HOME
+2. Install IDEA
+3. Install Android SDK
+ - add ANDROID_HOME (tools, platform-tool, tools/bin)
+ - add ANDROID_HOME to PATH
+4. Install Appium
+5. Install Genymotion
+6. [lib] Install Java Client 4.1.2
+7. [lib] Install Selenium Server 3.4
+8. [lib] JUnit 4
+9. [apks] org.wikipedia.apk
+
